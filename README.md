@@ -1,0 +1,2 @@
+# DotNetCore
+Thing to noted

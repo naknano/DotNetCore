@@ -21,6 +21,8 @@ namespace API.Controllers
         private readonly IWalkRepository repository;
         private readonly IMapper mapper;
 
+        // test
+
         public WallkController(IWalkRepository repository, IMapper mapper)
         {
             this.repository = repository;
